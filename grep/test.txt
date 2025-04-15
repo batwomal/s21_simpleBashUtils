@@ -1,0 +1,9 @@
+This is a test file test test test test num num num test test
+It contains some test patterns
+TEST in uppercase
+test in lowercase
+Pattern at the end test
+Multiple test test patterns
+Some numbers 123 456
+
+.* special characters ?+

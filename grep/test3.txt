@@ -1,0 +1,5 @@
+Pattern testing 123
+Case insensitivity check
+pattern match here
+Another line without pattern
+hello
